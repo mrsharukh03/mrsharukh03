@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning Java Spring boot || MVC || Spring Security 
+I am a highly motivated and skilled Java Spring Boot developer with hands-on experience in Spring MVC and Spring Security. I specialize in building robust, scalable, and secure applications that drive business growth. I am actively seeking challenging job opportunities where I can contribute my expertise, solve complex problems, and further hone my skills in backend development. My goal is to create impactful, high-performance solutions while continuously evolving as a developer. 
 
 
 ## 🌐 Socials:
